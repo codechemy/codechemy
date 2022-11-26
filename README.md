@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codechemy&label=Profile%20views&color=0e75b6&style=flat" alt="codechemy" /> </p>
 
-- 🌱 I’m currently learning **Backend.**
+- 🌱 I’m currently learning **Fullstack.**
 
 - About me **I typically use HTML,React,Javascript, Reactnative,CSS/Styled CSS, and lots of third party npm packages in the client side and sqlite,firebase on the backend.**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rajesh r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh r" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/rajesh r](https://www.linkedin.com/in/rajesh97)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
