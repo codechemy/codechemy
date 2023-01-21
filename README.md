@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codechemy&label=Profile%20views&color=0e75b6&style=flat" alt="codechemy" /> </p>
 
-- 🌱 I’m currently learning **Fullstack.**
+- 🌱 I’m currently learning **Flutter & Dart for cross platform mobile app development**
 
 - About me **I typically use HTML,React,Javascript, Reactnative,CSS/Styled CSS, and lots of third party npm packages in the client side and sqlite,firebase on the backend.**
 
